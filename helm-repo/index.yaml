@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  testapi:
+  - apiVersion: v1
+    created: 2017-10-18T05:03:40.442760669Z
+    description: Demo API
+    digest: bcdb6b2f7e55f668ebbce949ca619980b23e55cc9342432e5c94e57e7806a9f7
+    name: testapi
+    urls:
+    - https://cindy06.github.io/chart-repo/testapi-1.1.12.tgz
+    version: 1.1.12
+generated: 2017-10-18T05:03:40.442171659Z
